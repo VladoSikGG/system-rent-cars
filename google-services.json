@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1081178880752",
+    "firebase_url": "https://system-rent-cars-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "system-rent-cars",
+    "storage_bucket": "system-rent-cars.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081178880752:android:f292345494e03d41bae035",
+        "android_client_info": {
+          "package_name": "com.rudikgor.rentcars"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhZFS7SJlUblWzzggSSRe58VZfFP6VT3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
