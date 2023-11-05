@@ -1,0 +1,1 @@
+D:\proj\carRent\carRent\x64\Debug\carRent.vcxproj.AssemblyReference.cache
